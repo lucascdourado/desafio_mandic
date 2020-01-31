@@ -14,7 +14,7 @@ function carregar() {
         img.src = 'offline.png'
         document.body.style.background = '#ff8f9b'
     }
-
-    window.addEventListener('offline', function(e) {carregar()});
-    window.addEventListener('online', function(e) {carregar()});
 }
+
+window.addEventListener('offline', function (e) { carregar(), alert('SEM CONEXÃO') });
+window.addEventListener('online', function (e) { carregar() });
