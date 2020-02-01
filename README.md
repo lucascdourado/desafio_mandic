@@ -1,5 +1,5 @@
-# desafio_mandic
-Desafios Cloud, Dev e Infra
+# Desafios Mandic
+Desafios de Dev
 
 DESAFIOS: 
 
