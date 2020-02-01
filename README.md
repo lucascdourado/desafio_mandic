@@ -1,7 +1,7 @@
 # Desafios Mandic
 Desafios de Dev
 
-DESAFIOS: 
+Modo de execução: 
 
 IMC, INTERNET E ALFABETO: EXECUTAR O ARQUIVO INDEX.HTML
 
